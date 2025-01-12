@@ -67,28 +67,29 @@ Designed with a modern and aesthetic **Tkinter GUI**, this tool is user-friendly
 Replace the default VirusTotal API key in the code with your own:
 python
 ```DEFAULT_API_KEY = "your_virustotal_api_key"```
+
 ⚙️ Requirements
 Python 3.8 or later
 Required Python libraries: requests, beautifulsoup4, tkinter
+
 🛡️ Disclaimer
 This tool is designed for educational and ethical hacking purposes only. Always obtain proper authorization before testing the security of any website.
 
 🤝 Contributing
-Contributions are welcome! Feel free to:
+Contributions are welcome! Feel free to: Mpesa express- 07438444
 
 Submit issues.
 Fork the repository and create pull requests.
 Suggest new features or improvements.
+
 📄 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 📧 Contact
-For questions or support, reach out to Your Email.
+For questions or support, reach out to williamkitungo@gmail.com
 
 vbnet
-Copy code
-
-Let me know if you need further adjustments or additions to the README!
+```Let me know if you need further adjustments or additions to the README!```
 
 
 
