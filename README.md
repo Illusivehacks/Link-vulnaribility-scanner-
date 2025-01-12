@@ -53,22 +53,23 @@ Designed with a modern and aesthetic **Tkinter GUI**, this tool is user-friendly
    git clone https://github.com/your-username/vulnerability-scanner.git
 
 2. Navigate to the project directory:
-bash
-Copy code
-cd vulnerability-scanner
-Install the required dependencies:
-bash
-Copy code
-pip install -r requirements.txt
-Run the application:
-bash
-Copy code
-python scanner.py
+    bash
+    ```cd vulnerability-scanner```
+   
+4. Install the required dependencies:
+    bash
+   ```pip install -r requirements.txt```
+
+4.Run the application:
+    bash
+    ```python scanner.py```
+
+
+
 🔑 Configuration
 Replace the default VirusTotal API key in the code with your own:
 python
-Copy code
-DEFAULT_API_KEY = "your_virustotal_api_key"
+```DEFAULT_API_KEY = "your_virustotal_api_key"```
 ⚙️ Requirements
 Python 3.8 or later
 Required Python libraries: requests, beautifulsoup4, tkinter
