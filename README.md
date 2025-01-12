@@ -50,16 +50,16 @@ Designed with a modern and aesthetic **Tkinter GUI**, this tool is user-friendly
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/vulnerability-scanner.git
+   git clone https://github.com/Illusivehacks/Link-vulnaribility-scanner-.git
 2. Navigate to the project directory:
     bash
-    ```cd vulnerability-scanner```
+    ```cd ```
 3. Install the required dependencies:
     bash
    ```pip install -r requirements.txt```
 4.Run the application:
     bash
-    ```python scanner.py```
+    ```python bestversion.py```
 
 
 
